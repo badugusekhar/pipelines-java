@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sekharbadugu/MyFirstProject/_apis/build/status/badugusekhar.pipelines-java?branchName=master)](https://dev.azure.com/sekharbadugu/MyFirstProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
